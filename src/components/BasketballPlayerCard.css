@@ -1,0 +1,45 @@
+.player-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.player_img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    /* object-fit: s; */
+}
+
+.player-name ,.player-position{
+    font-size: 1.2rem;
+    font-weight: 500;
+    text-align: center;
+}
+
+.player-stats{
+    font-size: 1.1rem;
+    font-weight: 400;
+    text-align: center;
+}
+
+.player-button button{
+    padding: 8px 20px;
+    margin-top: 10px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.5s ease;
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: aliceblue;
+    border: 1px solid white;
+}
+
+.player-button button:hover{
+    background-color: tomato;
+    color: rgb(70, 29, 29);
+}

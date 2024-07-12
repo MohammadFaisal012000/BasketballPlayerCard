@@ -1,0 +1,23 @@
+.All-Player{
+    width: 400px;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 5px;
+    /* border: 1px solid white; */
+    box-shadow: 2px 2px 10px 10px rgb(223, 63, 89);
+}
+
+@media screen and (max-width:750px) {
+    .All-Player{
+        width: 90%;
+        height: 70%;
+        
+    }
+}
+
+
