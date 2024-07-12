@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BasketballPlayerCard/static/css/main.a779ebbf.css",
+    "main.js": "/BasketballPlayerCard/static/js/main.4f7c318f.js",
+    "index.html": "/BasketballPlayerCard/index.html",
+    "main.a779ebbf.css.map": "/BasketballPlayerCard/static/css/main.a779ebbf.css.map",
+    "main.4f7c318f.js.map": "/BasketballPlayerCard/static/js/main.4f7c318f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a779ebbf.css",
+    "static/js/main.4f7c318f.js"
+  ]
+}
